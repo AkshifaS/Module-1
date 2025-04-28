@@ -12,13 +12,13 @@ To write a Python program for adding two complex numbers, and get the user input
 6. Terminate the program.
 
 ## PROGRAM
-```python
+```
 a=eval(input())
 b=eval(input())
 print("A is",a)
 print("B is",b)
 print("Sum is",a+b)
-
+```
 ## OUTPUT
 ![3](https://github.com/user-attachments/assets/4c981488-d6eb-477e-b41a-b350fc8d8926)
 
